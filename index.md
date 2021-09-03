@@ -1,3 +1,12 @@
+## Testing the Markdown Syntax
+- bullet point one
+- bullet point two
+
+1. item one
+2. item two
+
+# _This_ is what **header one** looks like 
+## _This_ is what **header three** look like 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
